@@ -1,5 +1,5 @@
 
-// Copyright 2012 Google Inc. All rights reserved.
+// Copyright 2011 Google Inc. All rights reserved.
  
 (function(){
 
